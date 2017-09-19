@@ -1,0 +1,10 @@
+C:\Users\216110108\documents\visual studio 2017\Projects\CalTestVersion1\CalTestVersion1\obj\Debug\CalTestVersion1.csprojResolveAssemblyReference.cache
+C:\Users\216110108\documents\visual studio 2017\Projects\CalTestVersion1\CalTestVersion1\obj\Debug\CalTestVersion1.Form1.resources
+C:\Users\216110108\documents\visual studio 2017\Projects\CalTestVersion1\CalTestVersion1\obj\Debug\CalTestVersion1.Properties.Resources.resources
+C:\Users\216110108\documents\visual studio 2017\Projects\CalTestVersion1\CalTestVersion1\obj\Debug\CalTestVersion1.csproj.GenerateResource.Cache
+C:\Users\216110108\Documents\Visual Studio 2017\Projects\CalTestVersion1\CalTestVersion1\bin\Debug\CalTestVersion1.exe.config
+C:\Users\216110108\Documents\Visual Studio 2017\Projects\CalTestVersion1\CalTestVersion1\bin\Debug\CalTestVersion1.exe
+C:\Users\216110108\Documents\Visual Studio 2017\Projects\CalTestVersion1\CalTestVersion1\bin\Debug\CalTestVersion1.pdb
+C:\Users\216110108\Documents\Visual Studio 2017\Projects\CalTestVersion1\CalTestVersion1\obj\Debug\CalTestVersion1.exe
+C:\Users\216110108\Documents\Visual Studio 2017\Projects\CalTestVersion1\CalTestVersion1\obj\Debug\CalTestVersion1.pdb
+C:\Users\216110108\Documents\Visual Studio 2017\Projects\CalTestVersion1\CalTestVersion1\obj\Debug\CalTestVersion1.csproj.CoreCompileInputs.cache
